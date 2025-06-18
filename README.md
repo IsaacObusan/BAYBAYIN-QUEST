@@ -12,24 +12,7 @@ Baybayin Quest: Tracing App for Young Scholars
 
 ![g1](https://github.com/user-attachments/assets/84340013-172c-4707-b319-0e3c3e8d84e2)
 
-Table of Contents
-Introduction
 
-Problem and Motivation
-
-Key Features
-
-Key Benefits
-
-Installation
-
-Usage
-
-Contributing
-
-License
-
-Contact
 
 Introduction
 The Baybayin Quest: Tracing App for Young Scholars is a proposed mobile application designed to introduce primary-level students to the ancient Baybayin script of the Philippines. By combining cultural heritage with modern educational technology, this app aims to provide an engaging, interactive, and accessible learning experience, fostering a deeper connection to Filipino cultural roots while enhancing cognitive and fine motor skills.
