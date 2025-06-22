@@ -65,26 +65,7 @@ Despite its cultural significance, Baybayin is rarely included in modern curricu
 
 ---
 
-## 🛠️ Tech Stack (Suggested)
 
-- **Frontend**: Flutter / React Native  
-- **Backend**: Firebase / Node.js  
-- **Audio & Tracing Engine**: Canvas API, TTS  
-- **Analytics**: Firebase Analytics  
-
----
-
-## 📅 Development Timeline
-
-| Phase                   | Duration         | Description                                 |
-|------------------------|------------------|---------------------------------------------|
-| Planning & Research     | Week 1           | Identify curriculum needs, UX research      |
-| UI/UX Design            | Week 2–3         | Wireframing, prototyping                    |
-| Core Development        | Week 4–8         | Build tracing module, audio guide, tracking |
-| Testing & QA            | Week 9–10        | Usability testing, bug fixing               |
-| Launch & Deployment     | Week 11–12       | Final polish, play store submission         |
-
----
 
 ## 👩‍🏫 Target Audience
 
